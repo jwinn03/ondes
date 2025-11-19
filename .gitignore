@@ -4,3 +4,4 @@ test/
 *.op.raw
 *.raw
 *.fft
+*.plt
